@@ -1,4 +1,4 @@
-# Supermax-YCM-1-1-2-vs-turret-milling-machine
+# Supermax YCM-1 1/2 vs turret milling machine
 Manual for a Supermax YCM-1 1/2 variable speed turret milling machine
 
 
